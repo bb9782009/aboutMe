@@ -11,7 +11,7 @@
 
 *   RWD、Sass 網頁版型開發
 *   JavaScript、jQuery 框架開發
-*   AJAX + JSON 資料資料介接處理
+*   AJAX + JSON 資料介接處理
 *   Git / GitHub 團隊開發的認知
    
 ##  作品

@@ -20,9 +20,11 @@
 ##  作品
 
 *   高雄旅遊網  (使用AJAX、JSON) : https://bb9782009.github.io/KhTourism/
-<br>(githubCode : https://github.com/bb9782009/KhTourism)<br>
+<br>(githubCode : https://github.com/bb9782009/KhTourism)
+
 *   BMI計算 (使用LocalStorage) : https://bb9782009.github.io/BMI/
-<br>(githubCode : https://github.com/bb9782009/BMI)<br>
+<br>(githubCode : https://github.com/bb9782009/BMI)
+
 *   RWD響應式編排 : https://bb9782009.github.io/RWD/
 <br>(githubCode : https://github.com/bb9782009/RWD)
 

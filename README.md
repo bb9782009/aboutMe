@@ -16,4 +16,9 @@
    *    JQuery動畫效果的使用
    *    AJAX遠端拉JSON資料並顯示於網頁
    *    Git/GitHub團隊開發的認知
-   
+   
+##  作品
+
+*   高雄旅遊網  (使用AJAX、JSON)
+*   BMI計算 (使用LocalStorage)
+*   RWD響應式編排

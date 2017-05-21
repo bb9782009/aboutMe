@@ -19,6 +19,13 @@
    
 ##  作品
 
-*   高雄旅遊網  (使用AJAX、JSON)
-*   BMI計算 (使用LocalStorage)
-*   RWD響應式編排
+*   高雄旅遊網  (使用AJAX、JSON) : https://bb9782009.github.io/KhTourism/
+*   BMI計算 (使用LocalStorage) : https://bb9782009.github.io/BMI/
+*   RWD響應式編排 : https://bb9782009.github.io/RWD/
+
+
+##  現階段目標規劃
+
+*   從原生CSS轉為使用SASS編譯，提高CSS製作效率
+*   提深對於JavaScript的撰寫手法
+*   提升基礎英語的能力

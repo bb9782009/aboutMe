@@ -27,7 +27,8 @@
 
 ##  現階段目標規劃
 
-*   從原生 CSS 轉為使用 Sass 編譯，提高 CSS 製作效率
-*   提深對於 JavaScript 的撰寫手法
+*   從原生 CSS 轉為使用 Sass 編譯，提高 CSS 製作效率 
+*   提深對於 JavaScript 的撰寫手法 
 *   提升基礎英語的能力
-*   進階 Js 框架(Angular)
+*   進階 Js 框架 (Angular)
+

@@ -25,6 +25,8 @@
 *   RWD 響應式編排 : https://bb9782009.github.io/RWD/
 <br>(GitHubCode : https://github.com/bb9782009/RWD)
 
+*   GoogleMapAPI : https://bb9782009.github.io/GoogleMapAPI/
+<br>(GitHubCode : https://github.com/bb9782009/GoogleMapAP)
 ##  現階段目標規劃
 
 *   從原生 CSS 轉為使用 Sass 編譯，提高 CSS 製作效率 
